@@ -1,0 +1,14 @@
+body {
+    background-image: url(./669582-Anime-Digimon-Adventure-Tri.-1080P.jpg);
+    background-repeat: round;
+    background-position: center top;
+    
+}
+
+
+
+#card {
+    width: 20%;
+    float: right;
+    text-align: center;
+}
